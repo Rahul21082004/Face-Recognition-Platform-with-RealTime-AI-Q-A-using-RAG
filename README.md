@@ -1,7 +1,3 @@
-Here is a properly structured and clear `README.md` file for your Face Recognition Platform project, incorporating your setup instructions, technologies, and final demo video:
-
----
-
 ```markdown
 # Face Recognition Platform with Real-Time AI Q&A
 
