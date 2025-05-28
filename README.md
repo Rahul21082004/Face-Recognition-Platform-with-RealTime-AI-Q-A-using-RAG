@@ -19,30 +19,13 @@ This is a full-stack AI-powered face recognition platform built for the **Katoma
 |--------------------|-----------------------------------|
 | Frontend           | React.js                          |
 | Backend (API)      | Python (`Flask` or similar)       |
-| Face Recognition   | Python (`face_recognition`, `OpenCV`) |
-| RAG Engine         | Python (`LangChain`, `FAISS`, `OpenAI API`) |
+| Face Recognition   | Python (`OpenCV`)                 |
+| RAG Engine         | Python (`LangChain`, `FAISS`)     |
 | Communication      | WebSockets                        |
 | Database           | Any (e.g., SQLite, MongoDB)       |
 | LLM                | OpenAI ChatGPT                    |
 
----
-
-## 📁 Folder Structure
-
-```
-
-Face\_reconization-02/
-├── frontend/              # React app
-├── backend/               # Python backend + RAG engine
-├── face\_recognition/      # Face registration & recognition logic
-├── database/              # DB initialization and schema
-├── logs/                  # Logs for events and errors
-├── requirements.txt       # Python dependencies
-└── architecture.png       # Architecture diagram
-
-````
-
----
+---  
 
 ## ⚙️ Setup Instructions
 
